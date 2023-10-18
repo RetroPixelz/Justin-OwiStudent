@@ -1,4 +1,4 @@
-[![Justin's GitHub Banner](./assets/githubBack.png)]('')
+[![Justin's GitHub Banner](./assets/GitBack.png)]('')
 
 <!-- <!-- Pinned Repositories -- > -->
 
